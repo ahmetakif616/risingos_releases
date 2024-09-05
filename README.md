@@ -1,1 +1,1 @@
-# RisingOS Releases for Mi439 Built by me
+# RisingOS Releases for Mi439 Built By Me
